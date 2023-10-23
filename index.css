@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#game-container {
+  margin: 0 auto;
+  width: 300px;
+}
+
+button {
+  margin: 10px;
+}
+
+#answer {
+  width: 100px;
+}
